@@ -1,4 +1,4 @@
-# <img src="https://github.com/abdibrokhim/yaps.gg/blob/main/.github/assets/theo.jpg?raw=true" width="60" align="center" /> yats – yet another theo starter
+# <img src="https://github.com/abdibrokhim/yaps.gg/blob/main/public/assets/theo.jpg?raw=true" width="60" align="center" /> yats – yet another theo starter
 
 you like [theo's](https://t3.gg) personal website, so i made this boilerplate for you.
 
@@ -31,3 +31,7 @@ npm run dev
 ```
 
 open `http://localhost:3000` in your browser.
+
+here's an example.
+
+![yaps.gg](public/assets/yapsdotgg.png)
