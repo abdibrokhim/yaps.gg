@@ -36,6 +36,7 @@ export default function Footer() {
     <div className="py-8 px-4 md:px-0 flex flex-row gap-6 flex-wrap justify-center items-center border-t border-[var(--gray-300)]">
       {stuff.map((item) => (
         <a
+          key={item.href}
           className="flex items-center gap-2 hover:text-[var(--gray-700)]"
           href={item.href}
           target="_blank"
