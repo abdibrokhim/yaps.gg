@@ -1,4 +1,4 @@
-// import { Analytics } from "@vercel/analytics/react";
+import { Analytics } from "@vercel/analytics/react";
 import Layout from "@/components/layout";
 
 export default function Home() {
@@ -27,7 +27,7 @@ export default function Home() {
   
   return (
     <Layout>
-      {/* <Analytics /> */}
+      <Analytics />
       <div className="py-8 max-w-xl w-full px-4 md:px-0">
         <h1 className="text-[24px] text-center">hi, i&apos;m abee. i build things and make content about it. known mostly for hackathons and meme coins...</h1>
         <div className="flex flex-col gap-8 w-full max-w-xl mt-8">
