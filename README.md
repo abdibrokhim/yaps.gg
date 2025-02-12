@@ -21,6 +21,8 @@ npm install
 
 next, i recommend you go to `src/app/page.tsx` and `src/components/footer.tsx`. find `const stuff = [{...}]` and replace it with your own stuff.
 
+also don't forget to change `src/app/layout.tsx`.
+
 ## development
 
 here are some neat commands you can run:
