@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "yaps - builder who's also on youtube and x",
-  description: "yaps - builder who's also on youtube and x",
+  title: "abee - builder who's also on youtube and x",
+  description: "abee - builder who's also on youtube and x",
   metadataBase: new URL("https://yaps.gg/"),
   keywords: ["ai builder", "youtube creator", "open-source builder", "open-source"],
   
@@ -30,8 +30,8 @@ export const metadata: Metadata = {
   ],
 
   openGraph: {
-    title: "yaps - builder who's also on youtube and x",
-    description: "yaps - builder who's also on youtube and x",
+    title: "abee - builder who's also on youtube and x",
+    description: "abee - builder who's also on youtube and x",
     type: "website",
     url: "/",
     images: [
@@ -50,8 +50,8 @@ export const metadata: Metadata = {
 
   twitter: {
     card: 'summary_large_image',
-    title: "yaps - builder who's also on youtube and x",
-    description: "yaps - builder who's also on youtube and x",
+    title: "abee - builder who's also on youtube and x",
+    description: "abee - builder who's also on youtube and x",
     images: ['/assets/oc-logo.png'],
     site: '@abdibrokhim',
     creator: '@abdibrokhim',
@@ -69,7 +69,7 @@ export const metadata: Metadata = {
   },
 
   appleWebApp: {
-    title: 'yaps',
+    title: 'abee',
     statusBarStyle: 'black-translucent',
   },
   

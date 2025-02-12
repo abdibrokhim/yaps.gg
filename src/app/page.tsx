@@ -9,7 +9,7 @@ export default function Home() {
       href: 'https://notl.ink',
     },
     {
-      title: 'yapper',
+      title: 'abee',
       description: 'chief cookin\' officer on earth',
       href: 'https://imcook.in/',
     },
@@ -23,7 +23,7 @@ export default function Home() {
       description: 'the best tutorials on the internet',
       href: 'https://github.com/abdibrokhim/wrapped24?tab=readme-ov-file#courses--tutorials',
     }
-  ]
+  ];
   
   return (
     <Layout>
