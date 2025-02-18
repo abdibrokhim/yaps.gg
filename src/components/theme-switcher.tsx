@@ -1,6 +1,6 @@
 "use client"
 
-import { Moon, MoonIcon, SparklesIcon, Sun, SunIcon } from "lucide-react"
+import { MoonIcon, SparklesIcon, SunIcon } from "lucide-react"
 import { Theme, useTheme } from "@/components/theme-provider"
 import { Button } from "@/components/ui/button"
 import { useState } from "react"
