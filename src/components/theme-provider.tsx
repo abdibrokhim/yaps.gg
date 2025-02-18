@@ -11,8 +11,6 @@ export interface ThemeProviderProps {
   children: ReactNode
   defaultTheme?: Theme
   storageKey?: string
-  enableSystem: boolean
-  disableTransitionOnChange: boolean
   attribute?: string
 }
 
@@ -32,8 +30,6 @@ export function ThemeProvider({
   children,
   defaultTheme = "system",
   storageKey = "theme",
-  enableSystem,
-  disableTransitionOnChange,
   attribute,
   ...props
 }: ThemeProviderProps) {
