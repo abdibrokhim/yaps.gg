@@ -43,9 +43,6 @@ export function ThemeSwitcher() {
       <Button variant="ghost" size="icon" onClick={() => handleClick("dark")}>
         <MoonIcon className="h-[0.8rem] w-[0.8rem]" />
       </Button>
-      <Button variant="ghost" size="icon" onClick={() => handleClick("system")}>
-        <CompassIcon className="h-[0.8rem] w-[0.8rem]" />
-      </Button>
 
       {showMessage && (
         <div id="isPaidDropdown" className="hidden absolute top-[25px] mt-2 bg-[var(--background)] px-6 py-2 rouded-lg border border-[var(--gray-600)]">
