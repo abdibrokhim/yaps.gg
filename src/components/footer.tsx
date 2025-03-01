@@ -27,6 +27,10 @@ export default function Footer() {
       href: 'https://www.twitch.tv/abdibrokhim',
     },
     {
+      title: 'Instagram',
+      href: 'https://www.instagram.com/yaps.gg',
+    },
+    {
       title: 'Google Scholar',
       href: 'https://scholar.google.com/citations?user=lwz2FZgAAAAJ&hl=en',
     }
